@@ -1,0 +1,15 @@
+.registerComponent img {
+  display: flex;
+  width: 150px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+.a-button-primary {
+  background: #f0c14b;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  border-radius: 5px;
+}
